@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: image_processing
 Version: 0.0.1
 Summary: Image Processing Package using Skimage
-Home-page: https://github.com//image-processing-package
+Home-page: https://github.com/agabilobbo/image-processing-package
 Author: Gabriela
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
@@ -34,7 +34,7 @@ pip install image_processing
 ```
 
 ## Author
-
+Gabriela
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
