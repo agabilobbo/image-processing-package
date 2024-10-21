@@ -22,7 +22,7 @@ pip install image_processing
 ```
 
 ## Author
-
+Gabriela
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
